@@ -2,6 +2,7 @@
   "name": "pics",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://myusername.github.io/my-app",
   "dependencies": {
     "axios": "^0.19.0",
     "react": "^16.8.6",
